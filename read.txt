@@ -1,0 +1,1 @@
+I have not made seperate css file for each page rather the css style is written inside head tag.
